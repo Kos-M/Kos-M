@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=Kos-M&limit=6&sort=contributions&exclude=repo1,repo2,owner/repo3)](https://github.com/amankumarconnect/readme-contribution-stats)
