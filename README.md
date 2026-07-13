@@ -1,33 +1,18 @@
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <a href="#"><img src="contributions.svg"></a>
+  <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
-<a href=#><img src="contributions.svg"></a>
-
-
-<div float="right"> 
- 
- 
-
-
-![Kos-M's github stats](https://github-readme-stats.vercel.app/api?username=Kos-M&show_icons=true&theme=gruvbox) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kos-M&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
- </div>
- 
- ![](https://komarev.com/ghpvc/?username=Kos-M&color=lightgrey)
- 
-<!--
-**Kos-M/Kos-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+   <img src="https://github-stats-extended.vercel.app/api?username=Kos-M&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ocean_dark" alt="GitHub Stats">
+    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=Kos-M&type=day&transparent=true&t=1783933377082" alt="Contribution Stats">
+    
+  </div>
 
 
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=Kos-M&limit=6&sort=contributions&exclude=repo1,repo2,owner/repo3)](https://github.com/amankumarconnect/readme-contribution-stats)
+
+<!-- Visitor counter below -->
+
+
+</div>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=Kos-M&color=lightgrey" alt="Profile views"> -->
